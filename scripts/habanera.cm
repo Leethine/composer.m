@@ -1,0 +1,155 @@
+% Habanera from Carmen by Georges Bizet %
+
+@fs     44100
+@speed  1
+@metrum 2/4
+@style  latine
+@nclefs 4
+
+%Reference: IMSLP30415-PMLP15769-Bizet-CarmenFScfp1
+
+%page84 No.5 Habanera (Go to bottom, cello and Carmen)
+||clef1| (Silence,1/2) | (Silence,1/2) | (Silence,1/2) | (Silence,1/4) (Re5,1/8) (Do5#,1/8) |
+
+||clef2| (Silence,1/2) | (Silence,1/2) | (Silence,1/2) | (Silence,1/2) |
+||clef3| (Silence,1/2) | (Silence,1/2) | (Silence,1/2) | (Silence,1/2) |
+
+||clef4| (Re2,1/8) (Silence,1/16) (La2,1/16) (Fa3,3/32) (Silence,1/32) (La2,3/32) (Silence,1/32) | (Re2,1/8) (Silence,1/16) (La2,1/16) (Fa3,3/32) (Silence,1/32) (La2,3/32) (Silence,1/32) | (Re2,1/8) (Silence,1/16) (La2,1/16) (Fa3,3/32) (Silence,1/32) (La2,3/32) (Silence,1/32) | (Re2,1/8) (Silence,1/16) (La2,1/16) (Fa3,3/32) (Silence,1/32) (La2,3/32) (Silence,1/32) | 
+
+
+
+||clef1| (Do5,1/16) (Silence,1/32) (Do5,1/16) (Silence,1/32) (Do5,1/16) (Si4,1/8) (La4#,1/8) | (La4,1/8) (La4,1/16) (La4,1/16) (Sol4#,1/8) (Sol4,1/8) | (Fa4,1/16) (Sol4,1/32) (Fa4,1/32) (Mi4,1/16) (Fa4,1/16) (Sol4,1/8) (Fa4,1/8) | (Mi4,1/8) (Silence,1/8) (Re5,1/8) (Do5#,1/8) |
+
+||clef2| (Silence,1/2) | (Silence,1/2) | (Silence,1/2) | (Silence,1/2) |
+||clef3| (Silence,1/2) | (Silence,1/2) | (Silence,1/2) | (Silence,1/2) |
+
+||clef4| (Re2,1/8) (Silence,1/16) (La2,1/16) (Fa3,3/32) (Silence,1/32) (La2,3/32) (Silence,1/32) | (Re2,1/8) (Silence,1/16) (La2,1/16) (Fa3,3/32) (Silence,1/32) (La2,3/32) (Silence,1/32) | (Re2,1/8) (Silence,1/16) (La2,1/16) (Fa3,3/32) (Silence,1/32) (La2,3/32) (Silence,1/32) | (Re2,1/8) (Silence,1/16) (La2#,1/16) (Sol3,3/32) (Silence,1/32) (La2#,3/32) (Silence,1/32) |
+
+
+
+||clef1| (Do5,1/16) (Silence,1/32) (Do5,1/16) (Silence,1/32) (Do5,1/16) (Si4,1/8) (La4#,1/8) | (La4,1/16) (La4,1/16) (Silence,1/16) (La4,1/16) (Sol4,1/8) (Fa4,1/8) | (Mi4,1/16) (Fa4,1/32) (Mi4,1/32) (Re4,1/16) (Mi4,1/16) (Fa4,1/8) (Mi4,1/8) | (Re4,1/4) (Re5,1/8) (Do5#,1/8) |
+
+||clef2| (Silence,1/2) | (Silence,1/2) | (Silence,1/2) | (Silence,1/2) |
+||clef3| (Silence,1/2) | (Silence,1/2) | (Silence,1/2) | (Silence,1/2) |
+
+||clef4| (Re2,1/8) (Silence,1/16) (La2#,1/16) (Sol3,3/32) (Silence,1/32) (La2#,3/32) (Silence,1/32) | (Re2,1/8) (Silence,1/16) (La2#,1/16) (Sol3,3/32) (Silence,1/32) (La2#,3/32) (Silence,1/32) | (Re2,1/8) (Silence,1/16) (La2,1/16) (Sol3,3/32) (Silence,1/32) (La2,3/32) (Silence,1/32) | (Re2,1/8) (Silence,1/16) (La2,1/16) (Fa3,3/32) (Silence,1/32) (La2,3/32) (Silence,1/32) |
+
+
+
+||clef1| (Do5,1/16) (Silence,1/32) (Do5,1/16) (Silence,1/32) (Do5,1/16) (Si4,1/8) (La4#,1/8) | (La4,2/32) (Silence,1/32) (La4,2/32) (Silence,1/32) (La4,1/16) (Sol4#,1/8) (Sol4,1/8) | (Fa4,1/16) (Sol4,1/32) (Fa4,1/32) (Mi4,1/16) (Fa4,1/16) (Sol4,1/8) (Fa4,1/8) | (Mi4,1/8) (Silence,1/8) (Re5,1/8) (Do5#,1/8) | 
+
+||clef2| (Silence,1/2) | (Silence,1/2) | (Silence,1/2) | (Silence,1/2) |
+||clef3| (Silence,1/2) | (Silence,1/2) | (Silence,1/2) | (Silence,1/2) |
+
+||clef4| (Re2,1/8) (Silence,1/16) (La2,1/16) (Fa3,3/32) (Silence,1/32) (La2,3/32) (Silence,1/32) | (Re2,1/8) (Silence,1/16) (La2,1/16) (Fa3,3/32) (Silence,1/32) (La2,3/32) (Silence,1/32) | (Re2,1/8) (Silence,1/16) (La2,1/16) (Fa3,3/32) (Silence,1/32) (La2,3/32) (Silence,1/32) | (Re2,1/8) (Silence,1/16) (La2#,1/16) (Sol3,3/32) (Silence,1/32) (La2#,3/32) (Silence,1/32) | 
+
+
+
+%page 85 - the last 4 lines
+||clef1| (Do5,1/16) (Silence,1/32) (Do5,1/16) (Silence,1/32) (Do5,1/16) (Si4,1/8) (La4#,1/8) | (La4,2/32) (Silence,1/32) (La4,2/32) (Silence,1/32) (La4,2/32) (Sol4,1/8) (Fa4,1/8) | (Mi4,1/16) (Fa4,1/32) (Mi4,1/32) (Re4,1/16) (Mi4,1/16) (Fa4,1/8) (Mi4,1/8) | 
+
+||clef2| (Silence,1/2) | (Silence,1/2) | (Silence,1/2) |
+||clef3| (Silence,1/2) | (Silence,1/2) | (Silence,1/2) |
+
+||clef4| (Re2,1/8) (Silence,1/16) (La2#,1/16) (Sol3,3/32) (Silence,1/32) (La2#,3/32) (Silence,1/32) | (Re2,1/8) (Silence,1/16) (La2#,1/16) (Sol3,3/32) (Silence,1/32) (La2#,3/32) (Silence,1/32) | (Re2,1/8) (Silence,1/16) (La2,1/16) (Sol3,3/32) (Silence,1/32) (La2,3/32) (Silence,1/32) | 
+
+
+%change the chord
+||clef1| (Re4,1/4) (Re4,1/8) (Silence,1/8) | (Silence,1/4) (Fa4,1/4) |
+
+||clef2| (Silence,1/4) (Re5,1/8) (Do5#,1/8) | (Do5,1/16) (Silence,1/32) (Do5,1/16) (Silence,1/32) (Do5,1/16) (Si4,1/8) (La4#,1/8) |
+||clef3| (Silence,1/2) | (Silence,1/2) |
+
+||clef4| (Re2,1/8) (Silence,1/16) (La2,1/16) (Fa3#,3/32) (Silence,1/32) (La2,3/32) (Silence,1/32) | (Re2,1/8) (Silence,1/16) (La2,1/16) (Fa3,3/32) (Silence,1/32) (La2,3/32) (Silence,1/32) | 
+
+%page 86 upper half
+||clef1| (La4,1/4) (La4,1/8) (Silence,1/8) | (Silence,1/4) (Re5,1/4) | (Si4,1/4) (Si4,1/8) (Silence,1/8) |
+
+||clef2| (La4,1/8) (La4,1/16) (La4,1/16) (Sol4#,1/8) (Sol4,1/8) | (Fa4,1/8) (Mi4,1/16) (Fa4,1/16) (Sol4,1/8) (Fa4,1/8) | (Mi4,1/8) (Silence,1/8) (Re5,1/8) (Do5#,1/8) |
+||clef3| (Silence,1/2) | (Silence,1/2) | (Silence,1/2) |
+
+||clef4| (Re2,1/8) (Silence,1/16) (La2,1/16) (Fa3#,3/32) (Silence,1/32) (La2,3/32) (Silence,1/32) | (Re2,1/8) (Silence,1/16) (La2,1/16) (Fa3#,3/32) (Silence,1/32) (La2,3/32) (Silence,1/32) | (Re2,1/8) (Silence,1/16) (Si2,1/16) (Sol3,3/32) (Silence,1/32) (Si2,3/32) (Silence,1/32) |
+
+
+||clef1| (Silence,1/4) (Mi4,1/4) | (Mi5,1/4) (Mi5,1/8) (Silence,1/8) | (Silence,1/4) (La4,1/4) | (Re5,1/8) (Silence,1/16) (La4,1/16) (Re4,1/8) (Mi4,1/8) |
+
+||clef2| (Do5,2/32) (Silence,1/32) (Do5,2/32) (Silence,1/32) (Do5,2/32) (Si4,1/8) (La4#,1/8) | (La4,1/8) (La4,1/16) (La4,1/16) (Sol4,1/8) (Fa4#,1/8) | (Mi4,1/8) (Re4,1/16) (Mi4,1/16) (Fa4#,1/8) (Mi4,1/8) | (Re4,1/8) (Silence,3/8) |
+
+||clef3| (Silence,1/2) | (Silence,1/2) | (Silence,1/2) | (Silence,1/2) |
+
+||clef4| (Re2,1/8) (Silence,1/16) (Si2,1/16) (Sol3,3/32) (Silence,1/32) (Si2,3/32) (Silence,1/32) | (Re2,1/8) (Silence,1/16) (Si2,1/16) (Sol3,3/32) (Silence,1/32) (Si2,3/32) (Silence,1/32) | (Re2,1/8) (Silence,1/16) (La2,1/16) (Sol3,3/32) (Silence,1/32) (La2,3/32) (Silence,1/32) | (Re2,1/8) (Silence,1/16) (La2,1/16) (Fa3#,3/32) (Silence,1/32) (La2,3/32) (Silence,1/32) |
+
+
+% l'amour est enfant Boheme ...
+||clef1| (Fa4#,3/16) (La4,1/16) (Fa4#,1/8) (Mi4,1/8) | (Re4,3/16) (Mi4,1/16) (Fa4#,1/8) (Sol4,1/8) | (La4,1/16) (La4,1/16) (La4,1/16) (La4,1/16) (Si4,1/8) (La4,1/8) | (Sol4,1/8) (Silence,1/16) (Si4,1/16) (Mi4,1/8) (Fa4#,1/8) | 
+
+||clef2| (Silence,1/2) | (Silence,1/2) | (Silence,1/2) | (Silence,1/2) | 
+||clef3| (Silence,1/2) | (Silence,1/2) | (Silence,1/2) | (Silence,1/2) |
+
+||clef4| (Re2,1/8) (Silence,1/16) (La2,1/16) (Fa3#,3/32) (Silence,1/32) (La2,3/32) (Silence,1/32) | (Re2,1/8) (Silence,1/16) (La2,1/16) (Fa3#,3/32) (Silence,1/32) (La2,3/32) (Silence,1/32) | (Re2,1/8) (Silence,1/16) (La2,1/16) (Fa3#,3/32) (Silence,1/32) (La2,3/32) (Silence,1/32) | (Re2,1/8) (Silence,1/16) (Si2,1/16) (Sol3,3/32) (Silence,1/32) (Si2,3/32) (Silence,1/32) | 
+
+
+||clef1| (Sol4,3/16) (Si4,1/16) (Sol4,1/8) (Fa4#,1/8) | (Mi4,3/16) (Fa4#,1/16) (Sol4,1/8) (La4,1/8) | (Si4,1/16) (Si4,1/16) (Si4,1/16) (Si4,1/16) (Do5#,1/8) (Si4,1/8) | 
+
+||clef2| (Silence,1/2) | (Silence,1/2) | (Silence,1/2) |
+||clef3| (Silence,1/2) | (Silence,1/2) | (Silence,1/2) |
+||clef4| (Re2,1/8) (Silence,1/16) (Si2,1/16) (Sol3,3/32) (Silence,1/32) (Si2,3/32) (Silence,1/32) |  (Re2,1/8) (Silence,1/16) (Si2,1/16) (Sol3,3/32) (Silence,1/32) (Si2,3/32) (Silence,1/32) |  (Re2,1/8) (Silence,1/16) (Do3#,1/16) (La3,3/32) (Silence,1/32) (La2,3/32) (Silence,1/32) | 
+
+
+%page 87 lower half
+||clef1| (La4,1/4) (La4,1/8) (Silence,1/8) | (Silence,3/16) (La4,1/16) (Fa4#,1/8) (Mi4,1/8) | (Re4,3/16) (Mi4,1/16) (Fa4#,1/8) (Sol4,1/8) | (La4,1/16) (La4,1/16) (La4,1/16) (La4,1/16) (Re5,1/8) (Do5#,1/8) | (Sol4,1/4) (Sol4,1/8) (Silence,1/8) | (Silence,3/16) (Si4,1/16) (Sol4,1/8) (Fa4#,1/8) | (Mi4,1/8) (Fa4#,1/16) (Silence,1/16) (Sol4,1/8) (La4,1/8) | 
+%mais si je t'aime... si je t'aime
+
+||clef2| (Silence,3/16) (La4,1/16) (Re5,1/8) (Mi5,1/8) | (Fa5#,1/8) (Silence,3/8) | (Silence,1/2) | (Silence,1/2) | (Silence,3/16) (Si4,1/16) (Mi5,1/8) (Fa5#,1/8) | (Sol5,1/8) (Silence,3/8) | (Silence,1/2) |
+
+||clef3| (Silence,3/16) (La4,1/16) (Fa4#,1/8) (La4,1/8) | (Re5,1/8) (Silence,3/8) | (Silence,1/2) | (Silence,1/2) | (Silence,3/16) (Si3,1/16) (Sol4,1/8) (Si4,1/8) | (Mi5,1/8) (Silence,3/8) | (Silence,1/2) |
+
+||clef4| (Re2,1/8) (Silence,1/16) (La2,1/16) (Fa3#,3/32) (Silence,1/32) (La2,3/32) (Silence,1/32) | (Re2,1/8) (Silence,1/16) (La2,1/16) (Fa3#,3/32) (Silence,1/32) (La2,3/32) (Silence,1/32) | (Re2,1/8) (Silence,1/16) (La2,1/16) (Fa3#,3/32) (Silence,1/32) (La2,3/32) (Silence,1/32) | (Re2,1/8) (Silence,1/16) (La2,1/16) (Fa3#,3/32) (Silence,1/32) (La2,3/32) (Silence,1/32) | (Re2,1/8) (Silence,1/16) (Si2,1/16) (Sol3,3/32) (Silence,1/32) (Si2,3/32) (Silence,1/32) | (Re2,1/8) (Silence,1/16) (Si2,1/16) (Sol3,3/32) (Silence,1/32) (Si2,3/32) (Silence,1/32) | (Re2,1/8) (Silence,1/16) (Si2,1/16) (Sol3,3/32) (Silence,1/32) (Si2,3/32) (Silence,1/32) |
+
+
+%page88
+||clef1| (Do5#,1/16) (Silence,1/32) (Si4,1/16) (Silence,1/32) (La4,1/16) (Sol4,1/16) (La4,1/32) (Sol4,1/32) (Fa4#,1/16) (Mi4,1/16) | (Re4,1/4) (Re4,1/8) (Silence,1/8) | 
+||clef2| (Silence,1/2) | (Silence,3/16) (La4,1/16) (Re4,1/8) (Mi4,1/8) |
+||clef3| (Silence,1/2) | (Silence,3/16) (La4,1/16) (Fa4,1/8) (La4,1/8) | 
+||clef4| (Re2,1/8) (Silence,3/8) | (Re2,1/8) (Silence,1/16) (La2,1/16) (Fa3#,3/32) (Silence,1/32) (La2,3/32) (Silence,1/32) | 
+
+
+%the crowd continue singing
+||clef1| (Silence,1/2) | (Silence,1/2) | (Silence,1/2) | (Silence,1/2) | (Silence,1/2) |
+
+||clef2| (Fa4#,3/16) (La4,1/16) (Fa4#,1/8) (Mi4,1/8) | (Re4,3/16) (Mi4,1/16) (Fa4#,1/8) (Sol4,1/8) | (La4,1/16) (La4,1/16) (La4,1/16) (La4,1/16) (Si4,1/8) (La4,1/8) | (Sol4,1/8) (Silence,1/16) (Si4,1/16) (Mi4,1/8) (Fa4#,1/8) | (Sol4,3/16) (Si4,1/16) (Sol4,1/8) (Fa4#,1/8) | 
+
+||clef3| (Re5,3/16) (Fa5#,1/16) (Re5,1/8) (La4,1/8) | (Fa4#,3/16) (La4,1/16) (Re5,1/8) (Mi5,1/8) | ((Fa5#,1/16) (Fa5#,1/16) (Fa5#,1/16) (Fa5#,1/16) (Sol5,1/8) (Fa5#,1/8) | (Mi5,1/8) (Silence,1/16) (Si4,1/16) (Sol4,1/8) (Si4,1/8) | (Mi5,3/16) (Sol5,1/16) (Mi5,1/8) (Si4,1/8) | 
+
+||clef4| (Re2,1/8) (Silence,1/16) (La2,1/16) (Fa3#,3/32) (Silence,1/32) (La2,3/32) (Silence,1/32) | (Re2,1/8) (Silence,1/16) (La2,1/16) (Fa3#,3/32) (Silence,1/32) (La2,3/32) (Silence,1/32) | (Re2,1/8) (Silence,1/16) (La2,1/16) (Fa3#,3/32) (Silence,1/32) (La2,3/32) (Silence,1/32) | (Re2,1/8) (Silence,1/16) (Si2,1/16) (Sol3,3/32) (Silence,1/32) (Si2,3/32) (Silence,1/32) | (Re2,1/8) (Silence,1/16) (Si2,1/16) (Sol3,3/32) (Silence,1/32) (Si2,3/32) (Silence,1/32) |
+
+
+%page89
+
+||clef1| (Silence,1/2) | (Silence,1/2) | (Silence,1/2) | 
+
+||clef2| (Mi4,3/16) (Fa4#,1/16) (Sol4,1/8) (La4,1/8) | (Si4,1/16) (Si4,1/16) (Si4,1/16) (Si4,1/16) (Do5#,1/8) (Si4,1/8) | (La4,3/16) (La4,1/16) (Fa4#,1/8) (La4,1/8) | 
+
+||clef3| (Sol4,3/16) (Si4,1/16) (Mi5,1/8) (Fa5#,1/8) | (Sol5,1/16) (Sol5,1/16) (Sol5,1/16) (Sol5,1/16) (La5,1/8) (Sol5,1/8) | (Re5,3/16) (La4,1/16) (Re5,1/8) (Mi5,1/8) |  
+
+||clef4| (Re2,1/8) (Silence,1/16) (Si2,1/16) (Sol3,3/32) (Silence,1/32) (Si2,3/32) (Silence,1/32) | (Re2,1/8) (Silence,1/16) (La2,1/16) (Sol3,3/32) (Silence,1/32) (La2,3/32) (Silence,1/32) | (Re2,1/8) (Silence,1/16) (La2,1/16) (Fa3#,3/32) (Silence,1/32) (La2,3/32) (Silence,1/32) |
+
+
+%carmen on
+
+||clef1| (Silence,3/16) (La4,1/16) (Fa4#,1/8) (Mi4,1/8) | (Re4,3/16) (Mi4,1/16) (Fa4#,1/8) (Sol4,1/8) | (La4,1/16) (La4,1/16) (La4,1/16) (La4,1/16) (Re5,1/8) (Do5#,1/8) | (Sol4,1/4) (Sol4,1/8) (Silence,1/8) | 
+
+||clef2| (Re5,1/8) (Silence,3/8) | (Silence,1/2) | (Silence,1/2) | (Silence,3/16) (Si4,1/16) (Sol4,1/8) (Si4,1/8) |
+||clef3| (Fa5#,1/8) (Silence,3/8) | (Silence,1/2) | (Silence,1/2) | (Silence,3/16) (Si4,1/16) (Mi5,1/8) (Fa5#,1/8) |
+||clef4| (Re2,1/8) (Silence,1/16) (La2,1/16) (Fa3#,3/32) (Silence,1/32) (La2,3/32) (Silence,1/32) | (Re2,1/8) (Silence,1/16) (La2,1/16) (Fa3#,3/32) (Silence,1/32) (La2,3/32) (Silence,1/32) | (Re2,1/8) (Silence,1/16) (La2,1/16) (Fa3#,3/32) (Silence,1/32) (La2,3/32) (Silence,1/32) | (Re2,1/8) (Silence,1/16) (Si2,1/16) (Sol3,3/32) (Silence,1/32) (Si2,3/32) (Silence,1/32) |
+
+%page90 upper half, till end
+||clef1| (Silence,3/16) (Si4,1/16) (Sol4,1/8) (Fa4#,1/8) | (Mi4,1/8) (Fa4#,1/16) (Silence,1/16) (Sol4,1/8) (La4,1/8) | (Do5#,1/16) (Si4,1/16) (Sol4#,1/16) (La4,1/16) (Fa5#,1/8) (Mi5,1/8) | (Re5,1/2) | (Re5,1/8) (Silence,3/8) | (Silence,1/2) | 
+
+||clef2| (Mi5,1/8) (Silence,3/8) | (Silence,1/2) | (Sol4,1/8) (Silence,3/8) | (Fa4#,1/8) (Silence,3/8) | (Fa4#,1/8) (Silence,3/8) | (Silence,1/2) | 
+||clef3| (Sol5,1/8) (Silence,3/8) | (Silence,1/2) | (Do5#,1/8) (Silence,3/8) | (Re5,1/8) (Silence,3/8) | (Re5,1/8) (Silence,1/8) (Fa2#,3/32) (Silence,5/32) | (Silence,1/2) | 
+
+||clef4| (Re2,1/8) (Silence,1/16) (Si2,1/16) (Sol3,3/32) (Silence,1/32) (Si2,3/32) (Silence,1/32) | (Re2,1/8) (Silence,1/16) (Si2,1/16) (Sol3,3/32) (Silence,1/32) (Si2,3/32) (Silence,1/32) | (Re2,1/8) (Silence,3/8) | (Re2,1/8) (Silence,1/16) (La2,1/16) (Fa3#,3/32) (Silence,1/32) (La2,3/32) (Silence,1/32) | (Re2,1/8) (Silence,1/16) (La2,1/16) (Fa3#,3/32) (Silence,1/32) (La2,3/32) (Silence,1/32) | (Re2,1/8) (Silence,3/8) | 
+
+
+
