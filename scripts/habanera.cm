@@ -1,7 +1,7 @@
 % Habanera from Carmen by Georges Bizet %
 
 @fs     44100
-@speed  1
+@tempo  1
 @metrum 2/4
 @style  latine
 @nclefs 4

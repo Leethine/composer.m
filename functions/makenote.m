@@ -1,11 +1,11 @@
-function t=makenote(notelen, fs=44100, speed=0.5)
+function t=makenote(notelen, fs=44100, tempo=0.5)
 % @ notelen: length according to note symbol (e.g. 1/4 1/8 ...)
 % @ fs: sampling frequency
-% @ speed: the speed of an 1/4 note played
+% @ tempo: the speed of an 1/4 note played
 % Return the time-duration vector of the note
 
   dt = 1/fs;
-  T32 = speed/8;
+  T32 = tempo/8;
   t32 = [0:dt:T32];
   [temp k] = size(t32);
   
