@@ -7,7 +7,7 @@ function c=analyzer(y,fs,dt=0.001)
 
   c = cell();
   % start positions of each piece
-  pos = [1:fs*dt:length(y)];
+  pos = [1:floor(fs*dt):length(y)];
   for n = 1:length(pos)-1
     % cut out a piece of signal
     v = y(pos(n):pos(n+1));
