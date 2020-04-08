@@ -7,8 +7,8 @@ function y=genwave(t, flist, amplist, phlist, ratio=0.9)
 % @ratio: the ratio of recovery
   
   if (length(flist)  != length(amplist) || 
-     length(phlist) != length(amplist) ||
-     length(flist)  != length(phlist) )
+      length(phlist) != length(amplist) ||
+      length(flist)  != length(phlist) )
      disp('Warning: input dimention mismatch');
      return
    endif

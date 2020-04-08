@@ -2,7 +2,8 @@ function voices=compose(sheet)
 % Generate wav sound from the music script
 % @sheet: the sheet structure we get from Parse()
 % Returns the soundwave, which is a Cell who contains all clefs
-
+    instype = 'default'; % test
+    
     fs = sheet.fs;
     tempo = sheet.tempo;
     nclefs = sheet.nclefs;
@@ -23,12 +24,12 @@ function voices=compose(sheet)
             % the duration doesn't change
             duree = str2ratio(tp(2){1,1}); 
             %v = (1/length(c)) * gensound(note, duree, fs, tempo);
-            v = gensound(note, duree, fs, tempo);
+            v = gensound(note, duree, fs, tempo, instype);
             for othernote = c(2:end)
               % othernote has the form '(Note)'
               note = othernote{1,1}(2:end-1);
               %v = v + (1/length(c)) * gensound(note, duree, fs, tempo);
-              v = v + gensound(note, duree, fs, tempo);
+              v = v + gensound(note, duree, fs, tempo, instype);
             endfor
             
           else
@@ -36,7 +37,7 @@ function voices=compose(sheet)
             tp = str2tuple(s{1,1});
             note  = tp(1){1,1};
             duree = str2ratio(tp(2){1,1});
-            v = gensound(note, duree, fs, tempo);
+            v = gensound(note, duree, fs, tempo, instype);
           endif
           % accumulate
           v1 = [v1 v];
