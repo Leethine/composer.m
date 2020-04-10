@@ -1,15 +1,12 @@
 # composer.m
-Composing classical music with GNU Octave or Matlab
+Discovering classical music with GNU Octave or Matlab.
 
-**Version 0.0.1**
+The package is dedicated to the following purposes:
+ - Classical Music Synthesis
+ - Spectral Analysis of Musical Instruments
+ - Musical Instruments Synthesis
+ - Acoustic Analysis of Musical Vibrations
 
-Usage:
 
-```matlab
-octave1> cd $./functions
-octave2> sheet = parse("PATH_OF_YOUR_MUSIC_SCRIPT.cm"); % parse the script into a cell structure called sheet
-octave3> v = mix(compose(sheet));                       % "compile" the sheet to soundwave
-octave4> sound(v,sheet.fs)                              % play the soundwave
-```
+For the use on GNU Octave, please refer to `package_gnuoctave`
 
-For demonstration, I have created a sample music script `scripts/habanera.cm`.
