@@ -248,7 +248,7 @@
        | (Silence,3/16) (La4,1/16) (Re4,1/8) (Mi4,1/8) |
        
 ||clef3| (Silence,1/2) 
-       | (Silence,3/16) (La4,1/16) (Fa4,1/8) (La4,1/8) | 
+       | (Silence,3/16) (La4,1/16) (Fa4#,1/8) (La4,1/8) | 
        
 ||clef4| (Re2,1/8) (Silence,3/8) 
        | (Re2,1/8) (Silence,1/16) (La2,1/16) (Fa3#,3/32) (Silence,1/32) (La2,3/32) (Silence,1/32) | 
