@@ -15,7 +15,7 @@
 ## <http:##www.gnu.org/licenses/>.
 
 ## -*- texinfo -*-
-## @deftypefn {Function File} {[@var{f},@var{Amp},@var{Phi}] =} fourier(@var{y},@var{fs},@var{sorted})
+## @deftypefn {Function File} {[@var{Amp},@var{Phi},@var{F}] =} fourier(@var{y},@var{fs},@var{sorted})
 ##
 ## Computes the fourier transform of a sound sample y.
 ##

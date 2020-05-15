@@ -31,11 +31,11 @@ function y=mix(voices)
     print_usage ();
   endif
   
+  y = zeros(size(voices(1){1,1}));
   for part = voices
-  v = zeros(size(voices(1){1,1}));
-    v = v + part{1,1};
+    y = y + part{1,1};
   endfor
     
-  v = v/max(v);
+  y = y/max(y);
     
 endfunction

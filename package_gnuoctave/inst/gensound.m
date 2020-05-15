@@ -21,12 +21,14 @@ function sout=gensound(notation, duration, fs=44100, tempo=0.5,
     freq = keyfreq(n);
   
     if strcmp(instrument, "default")
-      sout = strength * gensound_canon(t, freq);
+      sout = strength * gensound_default(t, freq);
     elseif strcmp(instrument, "piano")
       sout = strength * gensound_piano(t,fs,freq,1.2);
       % trim the sound to reduce sharp noises
       ntrim = floor(length(t)/500);
       sout(end-ntrim:end) = 0;
+    elseif strcmp(instrument, "recorder")
+      sout = strength * gensound_recorder(t,freq);
     endif
   endif
   

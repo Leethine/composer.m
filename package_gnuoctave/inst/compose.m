@@ -31,7 +31,7 @@ function voices=compose(sheet)
     print_usage ();
   endif
   
-  instype = 'default'; % test
+  instype = 'recorder'; % test
   
   fs = sheet.fs;
   tempo = sheet.tempo;

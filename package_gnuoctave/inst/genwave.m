@@ -54,5 +54,7 @@ function y=genwave(t, flist, amplist, phlist, ratio=0.9)
    for n = 1:N
      y = y + amplist(n) * sin(2*pi*flist(n)*t + phlist(n));
    endfor
-
+   
+   y = y / max(y);
+   
 endfunction

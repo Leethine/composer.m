@@ -15,8 +15,7 @@
 ## <http:##www.gnu.org/licenses/>.
 
 ## -*- texinfo -*-
-## @deftypefn {Function File} {[@var{Freq},@var{Amp}] =} analyser 
-## (@var{ff}, @var{ratio}, @var{tol}, @var{F}, @var{A})
+## @deftypefn {Function File} {[@var{Freq},@var{Amp}] =} analyser (@var{ff}, @var{ratio}, @var{tol}, @var{F}, @var{A})
 ##
 ## Harmonic analysis of the music instrument
 ##
